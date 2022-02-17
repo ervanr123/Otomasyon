@@ -1,0 +1,16 @@
+C:\Users\ecenu\Desktop\BilgisayarOtomasyonu\BilgisayarOtomasyonu\bin\Debug\BilgisayarOtomasyonu.exe.config
+C:\Users\ecenu\Desktop\BilgisayarOtomasyonu\BilgisayarOtomasyonu\bin\Debug\BilgisayarOtomasyonu.exe
+C:\Users\ecenu\Desktop\BilgisayarOtomasyonu\BilgisayarOtomasyonu\bin\Debug\BilgisayarOtomasyonu.pdb
+C:\Users\ecenu\Desktop\BilgisayarOtomasyonu\BilgisayarOtomasyonu\obj\Debug\BilgisayarOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\ecenu\Desktop\BilgisayarOtomasyonu\BilgisayarOtomasyonu\obj\Debug\BilgisayarOtomasyonu.AnaSayfa.resources
+C:\Users\ecenu\Desktop\BilgisayarOtomasyonu\BilgisayarOtomasyonu\obj\Debug\BilgisayarOtomasyonu.Properties.Resources.resources
+C:\Users\ecenu\Desktop\BilgisayarOtomasyonu\BilgisayarOtomasyonu\obj\Debug\BilgisayarOtomasyonu.csproj.GenerateResource.cache
+C:\Users\ecenu\Desktop\BilgisayarOtomasyonu\BilgisayarOtomasyonu\obj\Debug\BilgisayarOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ecenu\Desktop\BilgisayarOtomasyonu\BilgisayarOtomasyonu\obj\Debug\BilgisayarOtomasyonu.exe
+C:\Users\ecenu\Desktop\BilgisayarOtomasyonu\BilgisayarOtomasyonu\obj\Debug\BilgisayarOtomasyonu.pdb
+C:\Users\ecenu\Desktop\BilgisayarOtomasyonu\BilgisayarOtomasyonu\obj\Debug\BilgisayarOtomasyonu.Satıslar.resources
+C:\Users\ecenu\Desktop\BilgisayarOtomasyonu\BilgisayarOtomasyonu\obj\Debug\BilgisayarOtomasyonu.Siparisler.resources
+C:\Users\ecenu\Desktop\BilgisayarOtomasyonu\BilgisayarOtomasyonu\obj\Debug\BilgisayarOtomasyonu.AdminGiris.resources
+C:\Users\ecenu\Desktop\BilgisayarOtomasyonu\BilgisayarOtomasyonu\obj\Debug\BilgisayarOtomasyonu.MusteriEkle.resources
+C:\Users\ecenu\Desktop\BilgisayarOtomasyonu\BilgisayarOtomasyonu\obj\Debug\BilgisayarOtomasyonu.UrunEkle.resources
+C:\Users\ecenu\Desktop\BilgisayarOtomasyonu\BilgisayarOtomasyonu\obj\Debug\BilgisayarOtomasyonu.UrunEnvanter.resources
